@@ -9,7 +9,8 @@
 
 #### Vacation Itenerary Route
 ![Map2](/Vacation_Itinerary/WeatherPy_travel_map.png)
-# Vacation Itinerary with Pop up markers
+
+### Vacation Itinerary with Pop up markers
 ![Map3](/Vacation_Itinerary/WeathPy_travel_map_marker.png)
 
 
